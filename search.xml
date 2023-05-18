@@ -5,10 +5,10 @@
     
     <entry>
       <title>archlinux+kde桌面配置指北</title>
-      <link href="/2023/05/18/archlinux-kde%E6%A1%8C%E9%9D%A2%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8C%97/"/>
-      <url>/2023/05/18/archlinux-kde%E6%A1%8C%E9%9D%A2%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8C%97/</url>
+      <link href="/posts/14225.html"/>
+      <url>/posts/14225.html</url>
       
-        <content type="html"><![CDATA[<h2 id="A-simple-lightweight-distribution"><a href="#A-simple-lightweight-distribution" class="headerlink" title="A simple, lightweight distribution"></a>A simple, lightweight distribution</h2><h4 id="一个简单、轻量级的发行版"><a href="#一个简单、轻量级的发行版" class="headerlink" title="一个简单、轻量级的发行版"></a>一个简单、轻量级的发行版</h4><center><p>————<a href="archlinux.org">archlinux.org</a> </p></center><p><strong>archlinux的<em>优点</em>：</strong></p><ol><li>轻量，占用低，简单，优雅</li><li>滚动更新，免去重下镜像</li><li>手动配置，从无到有，适合DIY（一点一点敲出桌面会有自豪感哦~૮(˶ᵔ ᵕ ᵔ˶)ა）</li><li>拥有强大的软件库！</li><li><del>适合折腾</del></li></ol><h2 id="警告⚠️！使用Arch-Linux前请确保你拥有基本的Linux排错能力，否则不建议使用，可以去体验开箱即用的发行版！请善用搜索引擎及GPT！"><a href="#警告⚠️！使用Arch-Linux前请确保你拥有基本的Linux排错能力，否则不建议使用，可以去体验开箱即用的发行版！请善用搜索引擎及GPT！" class="headerlink" title="警告⚠️！使用Arch Linux前请确保你拥有基本的Linux排错能力，否则不建议使用，可以去体验开箱即用的发行版！请善用搜索引擎及GPT！"></a><em><strong>警告⚠️！使用Arch Linux前请确保你拥有基本的Linux排错能力，否则不建议使用，可以去体验开箱即用的发行版！请善用搜索引擎及GPT！</strong></em></h2><h3 id="下面进入正文"><a href="#下面进入正文" class="headerlink" title="下面进入正文"></a>下面进入正文</h3><p>安装前的准备：</p><ul><li>一台UEFI启动的电脑（注：本教程指针对UEFI启动的电脑，其他启动方式请参考<a href="https://wiki.archlinux.org/">archwiki</a>）</li><li>一个U盘，用于制作启动盘</li><li>Arch Linux的官方镜像👉🏻<a href="https://archlinux.org/download/">archlinux</a></li></ul><h3 id="写入镜像"><a href="#写入镜像" class="headerlink" title="写入镜像"></a>写入镜像</h3><p>下载完镜像之后使用镜像写入工具将镜像写入U盘👉🏻<a href="https://rufus.ie/zh/">rufus</a></p><img src="/2023/05/18/archlinux-kde%E6%A1%8C%E9%9D%A2%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8C%97/2023-05-18-18-49-06.png" class=""><p><strong>如遇弹出提示，点击确定即可</strong><br>写入镜像需要一段时间，在此期间，<del>请坐和放宽</del></p><h3 id="重启，并选择引导U盘，进入Live系统"><a href="#重启，并选择引导U盘，进入Live系统" class="headerlink" title="重启，并选择引导U盘，进入Live系统"></a>重启，并选择引导U盘，进入Live系统</h3>]]></content>
+        <content type="html"><![CDATA[<h2 id="A-simple-lightweight-distribution"><a href="#A-simple-lightweight-distribution" class="headerlink" title="A simple, lightweight distribution"></a>A simple, lightweight distribution</h2><h4 id="一个简单、轻量级的发行版"><a href="#一个简单、轻量级的发行版" class="headerlink" title="一个简单、轻量级的发行版"></a>一个简单、轻量级的发行版</h4><center><p>————<a href="archlinux.org">archlinux.org</a> </p></center><p><strong>archlinux的<em>优点</em>：</strong></p><ol><li>轻量，占用低，简单，优雅</li><li>滚动更新，免去重下镜像</li><li>手动配置，从无到有，适合DIY（一点一点敲出桌面会有自豪感哦~૮(˶ᵔ ᵕ ᵔ˶)ა）</li><li>拥有强大的软件库！</li><li><del>适合折腾</del></li></ol><h2 id="警告⚠️！使用Arch-Linux前请确保你拥有基本的Linux排错能力，否则不建议使用，可以去体验开箱即用的发行版！请善用搜索引擎及GPT！"><a href="#警告⚠️！使用Arch-Linux前请确保你拥有基本的Linux排错能力，否则不建议使用，可以去体验开箱即用的发行版！请善用搜索引擎及GPT！" class="headerlink" title="警告⚠️！使用Arch Linux前请确保你拥有基本的Linux排错能力，否则不建议使用，可以去体验开箱即用的发行版！请善用搜索引擎及GPT！"></a><em><strong>警告⚠️！使用Arch Linux前请确保你拥有基本的Linux排错能力，否则不建议使用，可以去体验开箱即用的发行版！请善用搜索引擎及GPT！</strong></em></h2><h3 id="下面进入正文"><a href="#下面进入正文" class="headerlink" title="下面进入正文"></a>下面进入正文</h3><p>安装前的准备：</p><ul><li>一台UEFI启动的电脑（注：本教程指针对UEFI启动的电脑，其他启动方式请参考<a href="https://wiki.archlinux.org/">archwiki</a>）</li><li>一个U盘，用于制作启动盘</li><li>Arch Linux的官方镜像👉🏻<a href="https://archlinux.org/download/">archlinux</a></li></ul><h3 id="写入镜像"><a href="#写入镜像" class="headerlink" title="写入镜像"></a>写入镜像</h3><p>下载完镜像之后使用镜像写入工具将镜像写入U盘👉🏻<a href="https://rufus.ie/zh/">rufus</a></p><img src="/posts/14225/2023-05-18-18-49-06.png" class=""><p><strong>如遇弹出提示，点击确定即可</strong><br>写入镜像需要一段时间，在此期间，<del>请坐和放宽</del></p><h3 id="重启，并选择引导U盘，进入Live系统"><a href="#重启，并选择引导U盘，进入Live系统" class="headerlink" title="重启，并选择引导U盘，进入Live系统"></a>重启，并选择引导U盘，进入Live系统</h3>]]></content>
       
       
       
@@ -18,8 +18,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/2023/05/18/hello-world/"/>
-      <url>/2023/05/18/hello-world/</url>
+      <link href="/posts/16107.html"/>
+      <url>/posts/16107.html</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
@@ -31,10 +31,10 @@
     
     <entry>
       <title>使用hexo+github搭建博客</title>
-      <link href="/2023/02/16/%D1%84%E2%95%9C%E2%94%90%D1%87%D0%A4%D0%B8hexo-github%D1%86%D0%A0%D0%BD%D1%85%E2%95%97%E2%95%91%D1%85%D0%9D%D0%AA%D1%85%D0%BE%D0%B2/"/>
-      <url>/2023/02/16/%D1%84%E2%95%9C%E2%94%90%D1%87%D0%A4%D0%B8hexo-github%D1%86%D0%A0%D0%BD%D1%85%E2%95%97%E2%95%91%D1%85%D0%9D%D0%AA%D1%85%D0%BE%D0%B2/</url>
+      <link href="/posts/59915.html"/>
+      <url>/posts/59915.html</url>
       
-        <content type="html"><![CDATA[<img src="/2023/02/16/%D1%84%E2%95%9C%E2%94%90%D1%87%D0%A4%D0%B8hexo-github%D1%86%D0%A0%D0%BD%D1%85%E2%95%97%E2%95%91%D1%85%D0%9D%D0%AA%D1%85%D0%BE%D0%B2/2023-02-16-08-30-38.png" class="">]]></content>
+        <content type="html"><![CDATA[<img src="/posts/59915/2023-02-16-08-30-38.png" class="">]]></content>
       
       
       
@@ -54,8 +54,8 @@
     
     <entry>
       <title>test</title>
-      <link href="/2023/02/15/test/"/>
-      <url>/2023/02/15/test/</url>
+      <link href="/posts/63534.html"/>
+      <url>/posts/63534.html</url>
       
         <content type="html"><![CDATA[<table><thead><tr><th>hello</th><th>world</th></tr></thead><tbody><tr><td>你好</td><td>世界</td></tr></tbody></table>]]></content>
       

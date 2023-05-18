@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>archlinux+kde桌面配置指北</title>
+      <link href="/2023/05/18/archlinux-kde%E6%A1%8C%E9%9D%A2%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8C%97/"/>
+      <url>/2023/05/18/archlinux-kde%E6%A1%8C%E9%9D%A2%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8C%97/</url>
+      
+        <content type="html"><![CDATA[<h2 id="A-simple-lightweight-distribution"><a href="#A-simple-lightweight-distribution" class="headerlink" title="A simple, lightweight distribution"></a>A simple, lightweight distribution</h2><h4 id="一个简单、轻量级的发行版"><a href="#一个简单、轻量级的发行版" class="headerlink" title="一个简单、轻量级的发行版"></a>一个简单、轻量级的发行版</h4><center><p>————<a href="archlinux.org">archlinux.org</a> </p></center><p><strong>archlinux的<em>优点</em>：</strong></p><ol><li>轻量，占用低，简单，优雅</li><li>滚动更新，免去重下镜像</li><li>手动配置，从无到有，适合DIY（一点一点敲出桌面会有自豪感哦~૮(˶ᵔ ᵕ ᵔ˶)ა）</li><li>拥有强大的软件库！</li><li><del>适合折腾</del></li></ol><h2 id="警告⚠️！使用Arch-Linux前请确保你拥有基本的Linux排错能力，否则不建议使用，可以去体验开箱即用的发行版！请善用搜索引擎及GPT！"><a href="#警告⚠️！使用Arch-Linux前请确保你拥有基本的Linux排错能力，否则不建议使用，可以去体验开箱即用的发行版！请善用搜索引擎及GPT！" class="headerlink" title="警告⚠️！使用Arch Linux前请确保你拥有基本的Linux排错能力，否则不建议使用，可以去体验开箱即用的发行版！请善用搜索引擎及GPT！"></a><em><strong>警告⚠️！使用Arch Linux前请确保你拥有基本的Linux排错能力，否则不建议使用，可以去体验开箱即用的发行版！请善用搜索引擎及GPT！</strong></em></h2><h3 id="下面进入正文"><a href="#下面进入正文" class="headerlink" title="下面进入正文"></a>下面进入正文</h3><p>安装前的准备：</p><ul><li>一台UEFI启动的电脑（注：本教程指针对UEFI启动的电脑，其他启动方式请参考<a href="https://wiki.archlinux.org/">archwiki</a>）</li><li>一个U盘，用于制作启动盘</li><li>Arch Linux的官方镜像👉🏻<a href="https://archlinux.org/download/">archlinux</a></li></ul><h3 id="写入镜像"><a href="#写入镜像" class="headerlink" title="写入镜像"></a>写入镜像</h3><p>下载完镜像之后使用镜像写入工具将镜像写入U盘👉🏻<a href="https://rufus.ie/zh/">rufus</a></p><img src="/2023/05/18/archlinux-kde%E6%A1%8C%E9%9D%A2%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8C%97/2023-05-18-18-49-06.png" class=""><font size=4> <p><strong>如遇弹出提示，点击确定即可</strong><br>写入镜像需要一段时间，在此期间，<del>请坐和放宽</del></p></font><h3 id="重启，并选择引导U盘，进入Live系统"><a href="#重启，并选择引导U盘，进入Live系统" class="headerlink" title="重启，并选择引导U盘，进入Live系统"></a>重启，并选择引导U盘，进入Live系统</h3>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/05/18/hello-world/"/>
       <url>/2023/05/18/hello-world/</url>

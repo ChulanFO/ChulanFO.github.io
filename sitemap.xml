@@ -4,16 +4,16 @@
   <url>
     <loc>https://chulan.netlify.app/posts/59915.html</loc>
     
-    <lastmod>2023-05-18</lastmod>
+    <lastmod>2023-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://chulan.netlify.app/posts/63534.html</loc>
+    <loc>https://chulan.netlify.app/posts/14225.html</loc>
     
-    <lastmod>2023-05-18</lastmod>
+    <lastmod>2023-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://chulan.netlify.app/posts/14225.html</loc>
+    <loc>https://chulan.netlify.app/posts/63534.html</loc>
     
     <lastmod>2023-05-18</lastmod>
     
@@ -56,25 +56,16 @@
   </url>
   
   <url>
-    <loc>https://chulan.netlify.app/categories/index.html</loc>
-    
-    <lastmod>2023-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chulan.netlify.app/link/index.html</loc>
-    
-    <lastmod>2023-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://chulan.netlify.app/movies/index.html</loc>
+    
+    <lastmod>2023-02-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chulan.netlify.app/categories/index.html</loc>
     
     <lastmod>2023-02-15</lastmod>
     
@@ -91,10 +82,19 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://chulan.netlify.app/link/index.html</loc>
+    
+    <lastmod>2023-02-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://chulan.netlify.app/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,21 +102,21 @@
   
   <url>
     <loc>https://chulan.netlify.app/tags/hexo/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chulan.netlify.app/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chulan.netlify.app/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <lastmod>2023-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

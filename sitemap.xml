@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chulan.netlify.app/posts/14225.html</loc>
+    
+    <lastmod>2023-06-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://chulan.netlify.app/posts/59915.html</loc>
     
     <lastmod>2023-06-16</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://chulan.netlify.app/posts/8615.html</loc>
-    
-    <lastmod>2023-06-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chulan.netlify.app/posts/14225.html</loc>
     
     <lastmod>2023-06-16</lastmod>
     

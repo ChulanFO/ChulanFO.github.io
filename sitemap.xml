@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chulan.netlify.app/posts/14225.html</loc>
+    
+    <lastmod>2023-06-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chulan.netlify.app/posts/8615.html</loc>
+    
+    <lastmod>2023-06-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chulan.netlify.app/posts/33704.html</loc>
+    
+    <lastmod>2023-06-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chulan.netlify.app/posts/59915.html</loc>
+    
+    <lastmod>2023-06-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://chulan.netlify.app/tags/index.html</loc>
     
     <lastmod>2023-06-16</lastmod>
@@ -59,42 +95,6 @@
     <loc>https://chulan.netlify.app/about/index.html</loc>
     
     <lastmod>2023-06-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chulan.netlify.app/posts/33704.html</loc>
-    
-    <lastmod>2023-05-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chulan.netlify.app/posts/14225.html</loc>
-    
-    <lastmod>2023-05-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chulan.netlify.app/posts/8615.html</loc>
-    
-    <lastmod>2023-05-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chulan.netlify.app/posts/59915.html</loc>
-    
-    <lastmod>2023-05-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
